@@ -3,6 +3,8 @@ Enhanced Real-time Semantic Segmentation of Road Scenes — DDRNets
 
 The official paper -https://paperswithcode.com/paper/deep-dual-resolution-networks-for-real-time
 
+https://medium.com/@rawatakanksha2020/enhanced-real-time-semantic-segmentation-of-road-scenes-ddrnets-a8401296ed4e- Medium Article
+
 
 In artificial intelligence’s(AI) fantastic world, one of the many areas is Computer Vision which employs computers to derive meaningful information from digital images, videos, and other visual inputs and take actions or make recommendations based on that information. The agenda of this field is to enable machines to view the world as humans do. With the recent developments in the automotive vehicle industry, we have seen tremendous growth in securing the gap between the aptitudes of humans and machines. 
 
